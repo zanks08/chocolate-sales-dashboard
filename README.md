@@ -1,7 +1,8 @@
 # 🍫 Chocolate Sales Dashboard 🍫
 
 This is a **personal experiment dashboard project** where I explored how to build interactive visualizations using **Streamlit**, **Plotly**, and **Altair** — just to play around, try different visuals, and see how dynamic filtering works with real-world-style data.  
-I used a chocolate sales dataset and tested how we can present it beautifully with modern Python tools 💻🍫📊
+
+I used a chocolate sales dataset and tested how we can present it beautifully with modern Python tools 
 
 ---
 
@@ -75,6 +76,21 @@ Bubble chart showing relationship between quantity and sales per product.
 Honestly just wanted to try how it feels to build a **live dashboard**, filter data, and make something fun + interactive from scratch — and this chocolate dataset gave me the perfect excuse 😄
 
 ---
+
+##  References
+
+- 🧾 [Chocolate Sales Dataset – Kaggle](https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales)  
+  *Original dataset used for this dashboard.*
+
+- 📘 [Streamlit Documentation](https://docs.streamlit.io/)  
+  *Official docs for building Python web apps with Streamlit.*
+
+- 📈 [Altair Documentation](https://altair-viz.github.io/)  
+  *Declarative statistical visualization library for Python.*
+
+- 📊 [Plotly Express](https://plotly.com/python/plotly-express/)  
+  *Creates beautiful interactive charts in Python.*
+
 
 ## Author
 
