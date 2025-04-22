@@ -1,54 +1,66 @@
 # 🍫 Chocolate Sales Dashboard
 
-An interactive data visualization dashboard built with **Streamlit**, **Plotly**, and **Altair** to explore chocolate sales performance across different countries, products, and time periods.
+This is a **personal experiment dashboard project** where I explored how to build interactive visualizations using **Streamlit**, **Plotly**, and **Altair** — just to play around, try different visuals, and see how dynamic filtering works with real-world-style data.  
+I used a chocolate sales dataset and tested how we can present it beautifully with modern Python tools 💻🍫📊
+
+---
 
 ## 📊 Features
 
-- Filter sales by **Country**, **Product**, and **Date Range**
-- Live summary metrics: **Total Sales**, **Boxes Shipped**, **Orders**
-- Interactive charts:
-  - 📈 Sales Over Time (Altair Area Chart)
-  - 🌍 Sales by Country (Plotly Bar)
-  - 🍫 Top Selling Products (Horizontal Bar)
-  - 🫧 Product Performance Bubble Chart (Boxes vs Amount)
+- Filter chocolate sales by **Country**, **Product**, and **Date Range**
+- View quick metrics like **Total Sales**, **Boxes Shipped**, and **Total Orders**
+- Try out interactive charts:
+  - 📈 **Sales Over Time** (Altair Area Chart)
+  - 🌍 **Sales by Country** (Plotly Bar)
+  - 🍫 **Top Products** (Horizontal Bar)
+  - 🫧 **Product Performance** (Bubble Chart)
+
+---
+
+## 🌐 Want to See It Live?
+
+If you'd like to try out the dashboard yourself in real time —  
+👉 just click this link: **[chocolate-sales.streamlit.app](https://chocolate-sales.streamlit.app/)**
+
+> You don't have to install anything — it runs entirely in your browser 💻✨
 
 ---
 
 ## 🖼️ Visual Preview
 
-###  Sales Over Time
+### 📈 Sales Over Time
 
-Displays sales trends based on date.
+Shows how sales amount trends changed over time.
 
 ![Sales Over Time](Images/sales_over_time.png)
 
 ---
 
-### Sales by Country
+### 🌍 Sales by Country
 
-Compare the revenue generated from each country.
+See which countries contributed the most chocolate sales.
 
 ![Sales by Country](Images/sales_by_country.png)
 
 ---
 
-### Top Selling Products
+### 🍫 Top Selling Products
 
-Bar chart ranking the best-performing products.
+Top chocolates based on total sales.
 
 ![Top Products](Images/top_products.png)
 
 ---
 
-### Product Performance
+### 🫧 Product Performance
 
-Bubble chart representing product-wise sales vs boxes shipped.
+Bubble chart showing relationship between quantity and sales per product.
 
 ![Product Performance](Images/product_performance.png)
 
 ---
 
-## Technologies Used
+## 🚀 Technologies Used
 
 - Python
 - Streamlit
@@ -60,12 +72,11 @@ Bubble chart representing product-wise sales vs boxes shipped.
 
 ## 💡 Inspiration
 
-This dashboard was inspired by real-world business intelligence use cases, aiming to provide insightful, interactive sales analysis using Python tools.
+Honestly just wanted to try how it feels to build a **live dashboard**, filter data, and make something fun + interactive from scratch — and this chocolate dataset gave me the perfect excuse 😄
 
 ---
 
+## 🙋‍♀️ Author
 
-##  Author
-
-Made with ❤️ by [Harshitha Sha](https://github.com/zanks08)
+Made with 🍫 & 💻 by [Harshitha Sha](https://github.com/zanks08)
 
