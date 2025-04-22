@@ -16,7 +16,7 @@ An interactive data visualization dashboard built with **Streamlit**, **Plotly**
 
 ## 🖼️ Visual Preview
 
-### 📈 Sales Over Time
+###  Sales Over Time
 
 Displays sales trends based on date.
 
@@ -24,7 +24,7 @@ Displays sales trends based on date.
 
 ---
 
-### 🌍 Sales by Country
+### Sales by Country
 
 Compare the revenue generated from each country.
 
@@ -32,7 +32,7 @@ Compare the revenue generated from each country.
 
 ---
 
-### 🍫 Top Selling Products
+### Top Selling Products
 
 Bar chart ranking the best-performing products.
 
@@ -40,7 +40,7 @@ Bar chart ranking the best-performing products.
 
 ---
 
-### 🫧 Product Performance
+### Product Performance
 
 Bubble chart representing product-wise sales vs boxes shipped.
 
@@ -48,7 +48,7 @@ Bubble chart representing product-wise sales vs boxes shipped.
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - Python
 - Streamlit
@@ -65,7 +65,7 @@ This dashboard was inspired by real-world business intelligence use cases, aimin
 ---
 
 
-## 🙋‍♀️ Author
+##  Author
 
 Made with ❤️ by [Harshitha Sha](https://github.com/zanks08)
 
