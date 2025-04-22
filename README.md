@@ -1,11 +1,11 @@
-# 🍫 Chocolate Sales Dashboard
+# 🍫 Chocolate Sales Dashboard 🍫
 
 This is a **personal experiment dashboard project** where I explored how to build interactive visualizations using **Streamlit**, **Plotly**, and **Altair** — just to play around, try different visuals, and see how dynamic filtering works with real-world-style data.  
 I used a chocolate sales dataset and tested how we can present it beautifully with modern Python tools 💻🍫📊
 
 ---
 
-## 📊 Features
+## Features
 
 - Filter chocolate sales by **Country**, **Product**, and **Date Range**
 - View quick metrics like **Total Sales**, **Boxes Shipped**, and **Total Orders**
@@ -17,7 +17,7 @@ I used a chocolate sales dataset and tested how we can present it beautifully wi
 
 ---
 
-## 🌐 Want to See It Live?
+##  Want to See It Live?
 
 If you'd like to try out the dashboard yourself in real time —  
 👉 just click this link: **[chocolate-sales.streamlit.app](https://chocolate-sales.streamlit.app/)**
@@ -26,9 +26,9 @@ If you'd like to try out the dashboard yourself in real time —
 
 ---
 
-## 🖼️ Visual Preview
+## Visual Preview
 
-### 📈 Sales Over Time
+###  Sales Over Time
 
 Shows how sales amount trends changed over time.
 
@@ -36,7 +36,7 @@ Shows how sales amount trends changed over time.
 
 ---
 
-### 🌍 Sales by Country
+### Sales by Country
 
 See which countries contributed the most chocolate sales.
 
@@ -44,7 +44,7 @@ See which countries contributed the most chocolate sales.
 
 ---
 
-### 🍫 Top Selling Products
+### Top Selling Products
 
 Top chocolates based on total sales.
 
@@ -52,7 +52,7 @@ Top chocolates based on total sales.
 
 ---
 
-### 🫧 Product Performance
+### Product Performance
 
 Bubble chart showing relationship between quantity and sales per product.
 
@@ -60,7 +60,7 @@ Bubble chart showing relationship between quantity and sales per product.
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - Python
 - Streamlit
@@ -70,13 +70,13 @@ Bubble chart showing relationship between quantity and sales per product.
 
 ---
 
-## 💡 Inspiration
+## Inspiration
 
 Honestly just wanted to try how it feels to build a **live dashboard**, filter data, and make something fun + interactive from scratch — and this chocolate dataset gave me the perfect excuse 😄
 
 ---
 
-## 🙋‍♀️ Author
+## Author
 
-Made with 🍫 & 💻 by [Harshitha Sha](https://github.com/zanks08)
+Made with 🍫 & ❤️ by [Harshitha Sha](https://github.com/zanks08)
 
